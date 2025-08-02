@@ -2,9 +2,9 @@
 
 <h2>Que es un Datawarehouse ?</h2>
 <p>es un sistema de almacenamiento de información diseñado para consolidar, integrar y analizar grandes volúmenes de datos provenientes de diferentes fuentes. Su objetivo principal es apoyar la toma de decisiones empresariales mediante el análisis de datos históricos y actuales.</p>
-<br><br>
+<br>
 <p>Hoy en día, prácticamente todas las empresas se están moviendo a la nube debido a Razones lucrativas como la ausencia de costos iniciales, posibilidades de escala infinita, alto rendimiento, y así sucesivamente. Las empresas que almacenan datos confidenciales que no pueden trasladarse a la nube se puede elegir un enfoque híbrido. La nube de Microsoft (también conocido como Azure) proporciona tres tipos de servicios.</p>
-<br><br>
+<br>
 <p>Microsoft Azure ofrece una amplia gama de servicios en la nube para el análisis de datos. Podemos categorizarlos ampliamente bajo almacenamiento y cómputo:</p>
 <ul>
   <li>Azure SQL Data Warehouse</li>
