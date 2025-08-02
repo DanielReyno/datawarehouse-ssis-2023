@@ -1,8 +1,31 @@
 # datawarehouse-ssis-2023
 
+<h2>Que es un Datawarehouse ?</h2>
+<p>es un sistema de almacenamiento de información diseñado para consolidar, integrar y analizar grandes volúmenes de datos provenientes de diferentes fuentes. Su objetivo principal es apoyar la toma de decisiones empresariales mediante el análisis de datos históricos y actuales.</p>
+<br><br>
+<p>Hoy en día, prácticamente todas las empresas se están moviendo a la nube debido a Razones lucrativas como la ausencia de costos iniciales, posibilidades de escala infinita, alto rendimiento, y así sucesivamente. Las empresas que almacenan datos confidenciales que no pueden trasladarse a la nube se puede elegir un enfoque híbrido. La nube de Microsoft (también conocido como Azure) proporciona tres tipos de servicios.</p>
+<br><br>
+<p>Microsoft Azure ofrece una amplia gama de servicios en la nube para el análisis de datos. Podemos categorizarlos ampliamente bajo almacenamiento y cómputo:</p>
+<ul>
+  <li>Azure SQL Data Warehouse</li>
+  <li>Azure Blob Storage</li>
+  <li>Azure Data Lake Storage</li>
+  <li>Azure Data Lake Analytics</li>
+  <li>Azure Analytics Services</li>
+  <li>Azure Databricks </li>
+</ul>
+
+<h2>Azure Data Factory</h2>
+<p>Azure Data Factory (ADF) es un servicio de integración de datos basado en la nube que actúa como pegamento en su solución de macrodatos o análisis avanzado, lo que garantiza que sus flujos de trabajo complejos se integren con los diversos servicios dependientes </p>
+<img width="975" height="468" alt="image" src="https://github.com/user-attachments/assets/b2ff714a-6112-4311-a49f-c6b38115c690" />
+
+
+<h2>Por que es importante el big data ?</h2>
+<p>Los datos son la nueva moneda. Los volúmenes de datos han aumentado drásticamente con el tiempo. Los datos se generan a partir de sistemas tradicionales de punto de venta, aplicaciones modernas de comercio electrónico, fuentes sociales como Twitter e IoT sensores/wearables de todo el mundo. El reto para cualquier organización Hoy es analizar este conjunto de datos diverso para tomar decisiones más informadas que son predictivos y holísticos en lugar de reactivos y desconectados</p>
+
 <h2>Que es SSIS</h2>
 <p>SSIS es una plataforma extensible para construir soluciones ETL complejas. Se incluye con SQL Server y consta de un servicio de Microsoft Windows® que gestiona la ejecución de flujos de trabajo ETL, junto con herramientas y componentes para desarrollarlos. <br><br>
-Además del servicio de Windows de SSIS, SSIS incluye: <br> <br>
+Además del servicio de Windows de SSIS, SSIS incluye: <br>
 </p>
 <ul>
   <li>SSIS Designer. Una interfaz gráfica de diseño para desarrollar soluciones de SSIS en el entorno de desarrollo de Microsoft Visual Studio®. Por lo general, se inicia     la aplicación SQL Server Data Tools (SSDT) para acceder a esto.</li>
@@ -14,7 +37,8 @@ Además del servicio de Windows de SSIS, SSIS incluye: <br> <br>
 <img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/b7552b58-faca-4aa1-92a8-86c775a0184d" />
 
 
-<h2>Diagrama final de la base de datos en azure portal</h2>
+<h2>Modelo dimensional de la base de datos en azure</h2>
+<img width="405" height="272" alt="image" src="https://github.com/user-attachments/assets/e993dd14-f254-4518-a4f3-5327415dac21" />
 <img width="1170" height="807" alt="image" src="https://github.com/user-attachments/assets/5a9dcc7b-bd59-454c-bd49-ac350e50a788" />
 
 
