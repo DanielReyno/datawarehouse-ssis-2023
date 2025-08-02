@@ -1,5 +1,15 @@
 # datawarehouse-ssis-2023
 
+<h2>Que es SSIS</h2>
+<p>SSIS es una plataforma extensible para construir soluciones ETL complejas. Se incluye con SQL Server y consta de un servicio de Microsoft Windows® que gestiona la ejecución de flujos de trabajo ETL, junto con herramientas y componentes para desarrollarlos. <br><br>
+Además del servicio de Windows de SSIS, SSIS incluye: <br> <br>
+</p>
+<ul>
+  <li>SSIS Designer. Una interfaz gráfica de diseño para desarrollar soluciones de SSIS en el entorno de desarrollo de Microsoft Visual Studio®. Por lo general, se inicia     la aplicación SQL Server Data Tools (SSDT) para acceder a esto.</li>
+  <li>Asistentes. Utilidades gráficas que puedes utilizar para crear, configurar y implementar rápidamente soluciones de SSIS.</li>
+  <li>Herramientas de línea de comandos. Utilidades que puedes utilizar para administrar y ejecutar paquetes de SSIS.</li>
+</ul>
+
 <h2>Esquematico del proyecto a realizar</h2>
 <img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/b7552b58-faca-4aa1-92a8-86c775a0184d" />
 
